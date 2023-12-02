@@ -1,0 +1,74 @@
+    1
+简介：通过课程我学习到了如何安装GITBASH 比较熟=熟练创建删除文件，并将自己想要的文件通过特殊路径复制到里面。在此次作业中，我放了一张大头照在里面，文件的名字叫liaoxin。最后用history列出操作过程中的代码，并保存为记事本。  ls
+    2  mkdir liaoixn
+    3  ls
+    4  cd
+    5  cd liaoxin/
+    6  ls
+    7  cd/
+    8  ls
+    9  cd /
+   10  ls
+   11  ls
+   12  cd /
+   13  ls
+   14  mkdir liaoxin
+   15  cd liaoixn
+   16  cd liaoixn/
+   17  cd /
+   18  ls
+   19  mkdir liaoxin
+   20  cd liaoixn/
+   21  cd /
+   22  ls
+   23  mkdir liaoxin
+   24  ls
+   25  cd /
+   26  ls
+   27  mkdir liaoxin
+   28  ls -h
+   29  ls
+   30  ls
+   31  mkdir lijh
+   32  ls
+   33  ls/
+   34  ls/
+   35  ls
+   36  mkdir liaoxin
+   37  cd liaoxin
+   38  ls
+   39  cp /c/
+   40  cp /c/Users/14319/Desktop/微信图片_20230704131908
+   41  cp /c/Users/14319/Desktop/微信图片_20230704131908 .-r
+   42  cp /c/Users/14319/Desktop/微信图片_20230704131908 .
+   43  cp /c/Users/14319/Desktop/微信图片_20230704131908
+   44  cp /c/Users/14319/Desktop/图片/微信图片_20230704131908.jpg  。
+   45  cp /c/Users/14319/Desktop/图片/微信图片_20230704131908.jpg  
+   46  cp /c/Users/14319/Desktop/图片/微信图片_20230704131908.jpg  .
+   47  rm 大头照
+   48  cd /
+   49  vim
+   50  ls
+   51  cd /
+   52  ls
+   53  cd liaoixn
+   54  cd liaoxin
+   55  rm 大头照.jpg
+   56  cd /
+   57  ls
+   58  cd liaoxin
+   59  history
+   60  cd /
+   61  cd liaoxin
+   62  rm liaoxin
+   63  cd /
+   64  rm liaoxin
+   65  rm -r liaoxin
+   66  mkdir liaoxin
+   67  cd liaoxin
+   68  cp /D/个人视频照片
+   69  cp /D/个人视频照片/
+   70  cp /D/个人视频照片/
+   71  cp /D/个人视频照片/20213641廖鑫.jpg 
+   72  cp /D/个人视频照片/20213641廖鑫.jpg .
+   73  history  > 20213641.txt
